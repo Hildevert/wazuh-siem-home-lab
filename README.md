@@ -24,6 +24,7 @@ Below is the active telemetry and detection evidence captured during the attack 
 *Figure 2: Real-time detection of failed authentication attempts (Rule ID 60122).*
 
 ![JSON Event Payload](images/alert_json.png)
+
 *Figure 3: Structured JSON payload details showing target user (`usuario_ficticio`) and local source IP.*
 
 ## Key Learnings & SOC Competencies
